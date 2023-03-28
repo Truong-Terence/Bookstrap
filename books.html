@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookstrap</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/app.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/f61a6ddc10.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <!-- Réalisation d'un site vitrine autour d'une thématique choisie
+1) Mettre en place la structure avec Bootstrap 
+2) Mettre en place un menu
+3) Mettre en place une page présentant la liste de toutes les patisseries par exemple (Nom et image) 
+4) Mettre en place un lien sur chacun des éléments pour afficher le détail de celui-ci (Recette, Description, lieu d'origine) 
+5) Mettre en place un formulaire de contact avec les informations suivantes :
+- Nom
+- Prenom
+- Email
+- Age
+- Numero de telephone
+- Objet (liste déroulante)
+- Message 
+6) Mettre en place les mentions légales (générateur en ligne) -->
+
+  <div class="container">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="./index.html">Bookstrap store</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+          aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./who.html">Qui sommes-nous ?</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                aria-expanded="false">
+                Livres
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="./books.html#buy">Notre bibliothèque</a></li>
+                <li><a class="dropdown-item" href="./books.html#sell">Vendez vos livres</a></li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item" href="./books.html#premium">Nos offres premium <i
+                      class="fa-solid fa-crown"></i></a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./engage.html">Nos engagements</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <main>
+      <h1>Nos livres, vos livres, facilement</h1>
+      <section id="buy">
+        <h2>Bibliothèque</h2>
+        <div id="data-output" class="row row-cols-1 row-cols-md-2">
+          <div>
+        </div>
+      </section>
+      <hr>
+      <section id="sell">
+        <h2>Confiez-nous vos livres !</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+          magna aliqua. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Eu consequat ac felis donec
+          et odio pellentesque. Sed libero enim sed faucibus. At ultrices mi tempus imperdiet nulla malesuada
+          pellentesque elit. Et malesuada fames ac turpis egestas sed tempus urna et. A pellentesque sit amet porttitor
+          eget dolor morbi. Arcu non sodales neque sodales ut etiam. Maecenas pharetra convallis posuere morbi leo urna
+          molestie. Sit amet tellus cras adipiscing. Molestie ac feugiat sed lectus vestibulum. Tincidunt augue interdum
+          velit euismod in. Eget egestas purus viverra accumsan in nisl nisi scelerisque eu. Orci nulla pellentesque
+          dignissim enim sit amet venenatis urna cursus. Condimentum vitae sapien pellentesque habitant. Enim nulla
+          aliquet porttitor lacus luctus accumsan tortor. Commodo odio aenean sed adipiscing. Suscipit adipiscing
+          bibendum est ultricies integer quis. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien.
+        </p>
+        <p>
+          Amet aliquam id diam maecenas ultricies mi eget. Ornare arcu odio ut sem nulla. Consequat ac felis donec et
+          odio pellentesque diam volutpat. Dui faucibus in ornare quam. Ut faucibus pulvinar elementum integer enim
+          neque volutpat ac. In mollis nunc sed id. Orci a scelerisque purus semper. Et tortor at risus viverra. Mauris
+          a diam maecenas sed enim ut sem viverra. Rhoncus dolor purus non enim praesent elementum facilisis leo vel.
+          Mauris a diam maecenas sed enim ut sem viverra aliquet. Felis donec et odio pellentesque diam volutpat. Ornare
+          aenean euismod elementum nisi quis. Cras semper auctor neque vitae tempus quam pellentesque nec. A erat nam at
+          lectus urna. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Ut tellus elementum sagittis vitae
+          et leo. Lacus laoreet non curabitur gravida. Massa tincidunt nunc pulvinar sapien et ligula. Orci sagittis eu
+          volutpat odio.
+        </p>
+        <p>
+          Non nisi est sit amet facilisis. Feugiat sed lectus vestibulum mattis ullamcorper velit sed. Pretium aenean
+          pharetra magna ac placerat vestibulum lectus. Fames ac turpis egestas sed tempus urna et pharetra pharetra.
+          Pretium nibh ipsum consequat nisl vel pretium lectus quam id. Pellentesque dignissim enim sit amet venenatis.
+          Fringilla phasellus faucibus scelerisque eleifend. Turpis massa tincidunt dui ut ornare lectus sit amet est.
+          In massa tempor nec feugiat. Ac turpis egestas maecenas pharetra convallis posuere morbi.
+        </p>
+        <p>
+          Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Mauris pellentesque pulvinar pellentesque
+          habitant. At consectetur lorem donec massa sapien faucibus. Imperdiet sed euismod nisi porta. Arcu bibendum at
+          varius vel. Tellus pellentesque eu tincidunt tortor aliquam nulla. Sodales ut eu sem integer vitae justo eget
+          magna fermentum. Cursus in hac habitasse platea dictumst quisque sagittis purus sit. Massa enim nec dui nunc.
+          Erat imperdiet sed euismod nisi porta lorem mollis aliquam ut. Urna duis convallis convallis tellus id
+          interdum velit. In ornare quam viverra orci sagittis eu volutpat. Euismod quis viverra nibh cras pulvinar
+          mattis nunc. Sed odio morbi quis commodo odio aenean sed. Purus sit amet volutpat consequat mauris nunc congue
+          nisi. Euismod nisi porta lorem mollis aliquam ut. Interdum velit laoreet id donec ultrices tincidunt arcu.
+          Diam in arcu cursus euismod quis viverra nibh cras pulvinar. Aliquam purus sit amet luctus venenatis lectus
+          magna.
+        </p>
+        <p>
+          Eu facilisis sed odio morbi quis commodo odio aenean. Facilisis volutpat est velit egestas dui. Cursus metus
+          aliquam eleifend mi in nulla posuere. Velit dignissim sodales ut eu sem integer vitae justo. Leo in vitae
+          turpis massa. Nisi lacus sed viverra tellus in hac habitasse. Tristique senectus et netus et. Placerat orci
+          nulla pellentesque dignissim enim sit amet venenatis. Purus sit amet luctus venenatis lectus magna fringilla.
+          Vulputate ut pharetra sit amet aliquam id diam. Mollis aliquam ut porttitor leo a diam sollicitudin tempor.
+          Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Elit scelerisque mauris pellentesque pulvinar
+          pellentesque. Id porta nibh venenatis cras.
+        </p>
+      </section>
+      <hr>
+      <section id="premium">
+        <h2> Nos offres premium <i class="fa-solid fa-crown"></i> </h2>
+        <div class="row">
+          <div class="col col-md-4">
+            <div class="premium-col text-center">
+              <div>
+                <h3>Gratuit</h3>
+                <h4>0,00€ <span>/mois</span></h4>
+              </div>
+              <div class="premium-detail">
+                <p>Achat et vente de livre</p>
+              </div>
+              
+              <div>
+                <button type="button" class="btn">S'inscrire</button>
+              </div>
+            </div>
+          </div>
+          <div class="col col-md-4">
+            <div id="pack-middle" , class="premium-col text-center">
+              <div>
+                <h3>Premium+</h3>
+                <h4>9,99€ <span>/mois</span></h4>
+              </div>
+              <div class="premium-detail">
+                <p>Achat et vente de livre</p>
+                <p>5 emprunts /mois</p>
+                <p>Achat et vente éclair</p>
+                </div>
+              <div>
+                <button type="button" class="btn">Essayez Premium+</button>
+              </div>
+            </div>
+          </div>
+          <div class="col col-md-4">
+            <div class="premium-col text-center">
+              <h3>Premium</h3>
+              <h4>4,99€ <span>/mois</span></h4>
+              <div class="premium-detail">
+                <p>Achat et vente de livre</p>
+                <p>1 emprunts /mois</p>
+              </div>
+              <div>
+                <button type="button" class="btn">S'abonner</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      Made by Térence with <i class="fa-brands fa-bootstrap"></i>
+    </footer>
+  </div>
+  <script src="./js/app.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

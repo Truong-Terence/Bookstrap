@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "L'arabe du futur",
+        "author": "Riad Sattouf",
+        "content": "L'Arabe du futur, une jeunesse au Moyen-Orient (1978-2011) est une série de bande dessinée en six tomes, écrite et dessinée par Riad Sattouf. Vendue à plus de 3 millions d'exemplaires et traduite en 23 langues, elle raconte l'enfance et l'adolescence de l'auteur, fils aîné d'une mère française et d'un père syrien. L'histoire nous mène de la Libye du colonel Kadhafi à la Syrie d'Hafez Al-Assad en passant par la Bretagne, de Rennes au cap Fréhel.",
+        "image": "./img/arabeFutur.jpg",
+        "view": "./views/arabe_du_futur.html"
+    },
+    {
+        "id": 2,
+        "title": "L'Arbre qui pleure",
+        "author": "Marlène Jobert",
+        "content": "Victor le bûcheron s'apprête à abattre un chêne… Un cri terrible résonne jusqu'au plus profond de la forêt… L'arbre pleure, il ne veut pas mourir : c'est le début d'un conte fantastique qui s'achèvera dans la féerie d'un matin de Noël.",
+        "image": "./img/arbre.jpg",
+        "view": "./views/l_arbre_qui_pleure.html"
+    },
+    {
+        "id": 3,
+        "title": "La bête",
+        "author": "Frank <i class=\"fa-brands fa-d-and-d\"></i> Zidrou",
+        "content": "Capturé en pleine Palombie par des Indiens Chahutas et vendu à des trafiquants d'animaux exotiques, un marsupilami débarque dans les années 50 au port d'Anvers. Réussissant à s'enfuir, il arrive dans la banlieue de Bruxelles et est recueilli par François, un jeune garçon fan d'animaux dont le quotidien est loin d'être facile. Le début d'une aventure passionnante, parfois sombre mais toujours porteuse d'espoir, et d'une belle amitié. Les auteurs rendent un superbe hommage à l'animal fabuleux créé par Franquin dans la série « Spirou et Fantasio » tout en dénonçant la maltraitance et le trafic d'animaux exotiques. Une magnifique aventure dont le coeur est l'amitié extraordinaire qui peut unir un enfant à un animal.",
+        "image": "./img/bete.jpg",
+        "view": "./views/la_bete.html"
+    },
+    {
+        "id": 4,
+        "title": "Les Derniers Hommes",
+        "author": "Pierre Bordage",
+        "content": "Le futur proche, après la troisième guerre mondiale. Dans une Europe dévastée par les pollutions chimiques, nucléaires et génétiques, les rares ressources intactes sont partagées par des tribus nomades qui ont pris chacune en charge l'exploitation d'une denrée spécifique. Solman le boiteux, du peuple aquariote - qui découvre et contrôle les sources d'eau -, possède le don de clairvoyance: infaillible juge des âmes, cet atout le confine aussi à l'écart de tous, qui se méfient de son talent. Seuls Raïma, la guérisseuse, puis la mystérieuse Kadija et un vieux scientifique de l'ancien monde vont l'accompagner dans sa quête pour échapper à l'apocalypse qui semble menacer les derniers hommes...",
+        "image": "./img/dernierHommes.jpg",
+        "view": "./views/les_derniers_hommes.html"
+    },
+    {
+        "id": 5,
+        "title": "Les Guerriers du silence",
+        "author": "Pierre Bordage",
+        "content": "Quelque cent mondes composent la Confédération de Naflin, parmi lesquels la somptueuse et raffinée Syracusa. Or, dans l'ombre de la famille régnante, les mystérieux Scaythes d'Hyponéros, venus d'un monde lointain, doués d'inquiétants pouvoirs psychiques, trament un gigantesque complot dont l'instauration d'une dictature sur la Confédération ne constitue qu'une étape. Qui pourrait donc leur faire obstacle ? Les moines guerriers de l'Ordre Absourate ? Ou faudrait-il compter avec cet obscur employé d'une compagnie de voyages qui noie son ennui dans l'alcool sur la planète Deux-Saisons ? Car sa vie bascule en ce jour où une belle Syracusaine, traquée, passe la porte de son agence... Rares sont les romans français de science-fiction animés d'un véritable souffle épique. Pierre Bordage, dès son coup d'essai, nous livre avec Les guerriers du silence le premier volet d'un authentique opéra de l'Espace.",
+        "image": "./img/guerrierSilence.jpg",
+        "view": "./views/les_guerriers_du_silence.html"
+    },
+    {
+        "id": 6,
+        "title": "La Horde du Contrevent",
+        "author": "Alain Damasio",
+        "content": "Un groupe d'élite, formé dès l'enfance à faire face, part des confins d'une terre féroce, saignée de rafales, pour aller chercher l'origine du vent. Ils sont vingt-trois, un bloc, un nœud de courage : la Horde. Ils sont pilier, ailier, traceur, aéromètre et géomètre, feuleuse et sourcière, troubadour et scribe. Ils traversent leur monde debout, à pied, en quête d'un Extrême-Amont qui fuit devant eux comme un horizon fou. Expérience de lecture unique, La Horde du Contrevent est un livre-univers qui fond d'un même feu l'aventure et la poésie des parcours, le combat nu et la quête d'un sens profond du vivant qui unirait le mouvement et le lien. Chaque mot résonne, claque, fuse : Alain Damasio joue de sa plume comme d'un pinceau, d'une caméra ou d'une arme... Chef-d'œuvre porté par un bouche-à-oreille rare, le roman a été logiquement récompensé par le Grand Prix de l'Imaginaire.",
+        "image": "./img/laHorde.jpg",
+        "view": "./views/la_horde_du_contrevent.html"
+    },
+    {
+        "id": 7,
+        "title": "Mulan - L'histoire d'une épopée",
+        "author": "Jeff Kurtti",
+        "content": "En 1998, Disney s'emparait pour la première fois des contes et récits de l'empire du Milieu pour donner naissance à un long-métrage partout acclamé et devenu depuis un classique de l'animation. La jeune Mulan voulant sauver l'honneur de sa famille, l'incorrigible dragon Mushu, les terribles Huns, le courageux Shang... avec ses personnages iconiques, ses décors de toute beauté et ses chansons entêtantes, ce chef d'oeuvre a marqué des générations de spectateurs. Voici toutes les coulisses d'un film magique, toute l'histoire de Mulan, l'intrépide guerrière qui, un jour, sauva la Chine.",
+        "image": "./img/mulan.jpg",
+        "view": "./views/mulan.html"
+    },
+    {
+        "id": 8,
+        "title": "Pierre et le loup",
+        "author": "Sergueï Prokofiev",
+        "content": "En 1935, lors d'un voyage à Moscou, Sergueï Prokofiev assiste à des spectacles donnés par le Théâtre Central pour Enfants de Moscou. Ceux-ci lui inspirent la composition de Douze Pièces enfantines pour piano op. 65. L'année suivante, en 1936, la directrice du Théâtre Central, Nathalie Satz, lui propose de composer un conte symphonique pour enfants. Prokofiev, immédiatement séduit par ce projet, écrit à la fois la musique et l'histoire de Pierre et le Loup en seulement une semaine ! Pierre et le Loup est un cadeau non seulement pour les enfants de Moscou mais aussi pour les miens, déclare le compositeur, dont le plus jeune fils est alors âgé de 7 ans. L'œuvre est jouée pour la première fois au Théâtre Central le 2 mai 1936 et rencontre tout de suite un succès immense qui perdure toujours. Entre 1936 et 1939, Prokofiev enrichit de nouveau le répertoire de l'enfance avec ses chansons La Bavarde (une petite écolière qui se parle à elle-même), Chansonnette sucrée (un générique de publicité pour la vente de bonbons au Théâtre Central pour Enfants), et Les Petits Cochons.",
+        "image": "./img/pierreLoup.jpg",
+        "view": "./views/perre_et_le_loup.html"
+    },
+    {
+        "id": 9,
+        "title": "Titeuf - 9. La loi du préau",
+        "author": "Zep",
+        "content": "Le 9e tome des aventures de la mèche blonde qui fait des ravages chez nos p'tits frères et sœurs... 4e de couverture : \"",
+        "image": "./img/titeuf.jpg",
+        "view": "./views/titeuf.html"
+    },
+    {
+        "id": 10,
+        "title": "Trolls de Troy - 1. Histoires trolles",
+        "author": "Arleston <i class=\"fa-brands fa-d-and-d\"></i> Mourier",
+        "content": "Troy est un monde fascinant, où la magie intervient dans le quotidien de tous. Chacun en effet, possède un pouvoir, petit ou grand, plus ou moins utile. L'un a le don de figer l'eau en glace, l'autre de fondre le métal d'un regard. On trouve sur Troy toutes sortes de créatures, mais les plus redoutables pour l'être humain sont sans nul doute les trolls. Pourtant, ces terribles prédateurs sont sympathiques. Ils chassent le dragon, cueillent le paysan, et possèdent d'innombrables recettes pour les accommoder. Mais un jour, les hommes décident d'exterminer les trolls et forment un groupe de chasseurs aux terribles pouvoirs. Teträm, brave troll, accompagné de sa fille adoptive, l'humaine Waha, va tout tenter pour sauver les siens. Deux siècles avant l'histoire de Lanfeust, la quête pleine d'humour d'un troll sauvage et d'une jeune fille.",
+        "image": "./img/trolls.jpg",
+        "view": "./views/trolls_de_troy.html"
+    },
+    {
+        "id": 11,
+        "title": "Le Voyageur imprudent",
+        "author": "René Barjavel",
+        "content": "Le lendemain, il avança d'un siècle de plus. Puis de deux, de trois, de cinq. Ce qu'il vit et rapporta à l'infirme leur parut tellement effrayant qu'ils décidèrent, d'un commun accord, de faire en avant un bond gigantesque pour être immédiatement fixés sur le sort de leurs lointains petits-enfants. En effet, si l'électricité avait disparu, et la civilisation de la machine trouvé son terme, une force nouvelle était née ; l'humanité, qui avait appris à l'utiliser, subissait une telle évolution dont l'esprit des deux hommes n'osait prévoir l'aboutissement. Quand Saint-Menoux, ce jour là, appuya sur le bouton de départ...",
+        "image": "./img/voyageur.jpg",
+        "view": "./views/le_voyageur_imprudent.html"
+    },
+    {
+        "id": 12,
+        "title": "Wang, tome 1 : Les portes d'Occident",
+        "author": "Pierre Bordage",
+        "content": "En l'an 2212, le monde est divisé en deux par le REM : une immense barrière électromagnétique. D'un côté, on trouve les pays occidentaux, à l'origine de la séparation et de l'autre, le reste du monde. À l'Est, les croisades successives, religieuses ou idéologiques, contre la science ont fait retomber ces pays dans un quasi Moyen Âge. Confort et nourriture sont des denrées rares. Hygiène et médecine sont inexistantes. C'est le règne de la terreur orchestrée par la pègre. À l'Ouest, la science a poursuivi son évolution : fermes d'organes et contrôle climatique sont des réalités. C'est aujourd'hui un vrai dogme d'État. Les religions sont interdites. Les contacts physiques sont considérés comme rétrogrades. L'amour est désormais virtuel. La soupape de sécurité de cette société ultra (f)rigide : les JU. Une compétition internationale sous forme de guerre uchronique. Wang, un jeune immigrant chinois qui possède comme seuls alliés « Le Tao de la survie de grand-maman Li » et la foi en ses ancêtres, est enrôlé de force dans l'armée française.",
+        "image": "./img/wang.jpg",
+        "view": "./views/wang.html"
+    }
+]
